@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HQ App</title>
+    <titl> REGISTRATION PAGE </title>
     <style>
         body {
             background-color: black;
@@ -49,7 +49,7 @@
     <div class="container">
         <div class="icon" onclick="navigateTo('pak_services.html')">
             <img src="pak_services.png" alt="Pak e-Services">
-            <p>Pak e-Services</p>
+            <p>ONLINE SERVICES</p>
         </div>
         <div class="icon" onclick="navigateTo('live_tv.html')">
             <img src="live_tv.png" alt="Live TV">
@@ -81,7 +81,7 @@
         </div>
         <div class="icon" onclick="navigateTo('digital_assets.html')">
             <img src="assets.png" alt="Digital Assets">
-            <p>1TB Digital Assets</p>
+            <p>UPDATES</p>
         </div>
         <div class="icon" onclick="navigateTo('social.html')">
             <img src="social.png" alt="Social Media">
